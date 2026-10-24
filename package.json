@@ -1,0 +1,22 @@
+{
+  "name": "api-testing---playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakash22-vp/API-Testing-with-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakash22-vp/API-Testing-with-Playwright/issues"
+  },
+  "homepage": "https://github.com/Prakash22-vp/API-Testing-with-Playwright#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
